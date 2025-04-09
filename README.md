@@ -1,7 +1,7 @@
 # librarium
 This is my Data Science Portfolio. 
 
-This combines all of my various repositories of my best projects.
+This combines all of my various repositories of my favorite projects.
 
 Table of Contents
 1. Crypto Price Prediction
